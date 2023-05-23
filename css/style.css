@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/picture.png);
+    background-position: center;
+    background-size: cover;
+    padding-left: 8%;
+    padding-right: 6%;
+    box-sizing: border-box;
+}
+
+.topnav{
+    overflow: hidden;
+    top: 0;
+    right: 0;
+    position: fixed;
+}
+
+.topnav a{
+    float:left;
+    color: rgb(251, 252, 252);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.topnav a:hover{
+    background-color: rgb(169, 204, 227);
+    color: black;
+}
+
+.hdrtitle{
+    display: flex;
+    align-items: center;
+    height: 75%;
+}
+
+.hdrtext{
+    flex-basis: 20%;
+}
+
+h1{
+    color: rgb(251, 252, 252);
+    font-size: 90px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+
+p{
+    color: rgb(251, 252, 252);
+    font-size: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 20px;
+}
+
+.box{
+    width: 230px;
+    height: 260px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    margin: 10px 15px;
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),url(../img/culture.png);
+    background-position: center;
+    background-size: cover;
+    box-shadow: 2px 7px 20px black;
+    position: relative;
+    left:400px;
+    bottom: 10px;
+}
+
+.box2{
+    width: 230px;
+    height: 260px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    margin: 10px 15px;
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),url(../img/tradition.png);
+    background-position: center;
+    background-size: cover;
+    box-shadow: 2px 7px 20px black;
+    position: relative;
+    left:400px;
+    bottom: 10px;
+}
+
+.box3{
+    width: 230px;
+    height: 260px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    margin: 10px 15px;
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),url(../img/sights.png);
+    background-position: center;
+    background-size: cover;
+    box-shadow: 2px 7px 20px black;
+    position: relative;
+    left:5px;
+    top: 290px;
+}
+
+h4{
+    color: rgb(251, 252, 252);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 23px;
+}
