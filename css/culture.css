@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container1{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/culture.png);
+    background-position:center;
+    background-size: cover;
+    padding-left: 8%;
+    padding-right: 6%;
+    box-sizing: border-box;
+}
+
+.topnav{
+    overflow: hidden;
+    top: 0;
+    right: 0;
+    position: fixed;
+}
+
+.topnav a{
+    float: left;
+    color: rgb(251, 252, 252);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.topnav a:hover{
+    background-color: rgb(169, 204, 227);
+    color: black;
+}
+
+.hdrtitle1{
+    display: flex;
+    padding-left: 40%;
+    align-items: center;
+    height: 30%;
+}
+
+.hdrtext1{
+    flex-basis:15%;
+}
+
+h1{
+   color: rgb(251, 252, 252);
+   font-size: 75px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    color: rgb(251, 252, 252);
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 20px;
+    text-align: center;
+}
+
+h2{
+    color: rgb(251, 252, 252);
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.box{
+    width: 250px;
+    height: 190px;
+    display: inline-block;
+    border-radius: 12px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    background-color:rgb(169, 204, 227);
+}
+
+.box2{
+    width: 250px;
+    height: 190px;
+    display: inline-block;
+    border-radius: 12px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    background-color:rgb(169, 204, 227);
+}
+
+.box3{
+    width: 250px;
+    height: 190px;
+    display: inline-block;
+    border-radius: 12px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    background-color:rgb(169, 204, 227);
+}
+
+
+
+
+
