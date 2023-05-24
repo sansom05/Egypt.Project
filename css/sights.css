@@ -70,7 +70,7 @@ h1{
     background-size: cover;
     box-shadow: 2px 7px 20px black;
     position: relative;
-    left: 885px;
+    left: 700px;
     top: 600px;
 }
 
@@ -88,8 +88,8 @@ h1{
     background-size: cover;
     box-shadow: 2px 7px 20px black;
     position: relative;
-    left: 600px;
-    top: 1000px;
+    left: 170px;
+    top: 1200px;
 }
 
 #box3{
@@ -106,10 +106,28 @@ h1{
     background-size: cover;
     box-shadow: 2px 7px 20px black;
     position: relative;
-    left: 315px;
-    top: 1400px;
+    left: 700px;
+    top: 1500px;
 }
 
 .container2{
+background-color: antiquewhite;
+}
 
+#pyramidT{
+    font-size: 16px;
+    line height: 5;
+    max-width: 700px;
+}
+
+#sphynxT{
+    font-size: 16px;
+    line height: 5;
+    max-width: 700px;
+}
+
+#nileT{
+    font-size: 16px;
+    line height: 5;
+    max-width: 700px;
 }
