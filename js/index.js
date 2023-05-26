@@ -1,17 +1,17 @@
-document.getElementById("sights").onclick = myFunction;
+document.getElementById("sights").onclick = openSights;
 
-function myFunction() {
+function openSights() {
   window.open("sights.html","_self");
 }
 
-document.getElementById("tradition").onclick = myFunction;
+document.getElementById("tradition").onclick = openTradition;
 
-function myFunction() {
-  window.open("tradition.html","_self");
+function openTradition() {
+  window.open("traditions.html","_self");
 }
 
-document.getElementById("culture").onclick = myFunction;
+document.getElementById("culture").onclick = openCulture;
 
-function myFunction() {
+function openCulture() {
   window.open("culture.html","_self");
 }
