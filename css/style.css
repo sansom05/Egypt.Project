@@ -22,6 +22,11 @@
     z-index: 99;
 }
 
+#home{
+    background-color: rgb(169, 204, 227);
+    color: black;
+}
+
 .topnav a{
     float:left;
     color: rgb(251, 252, 252);
