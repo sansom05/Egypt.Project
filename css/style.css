@@ -78,7 +78,7 @@ p{
     background-size: cover;
     box-shadow: 2px 7px 20px black;
     position: relative;
-    left:27%;
+    left:30%;
     top: 17vw;
     transition: transform 1.2s;
 }
@@ -96,7 +96,7 @@ p{
     background-size: cover;
     box-shadow: 2px 7px 20px black;
     position: relative;
-    left:28%;
+    left:31%;
     top:17vw;
     transition: transform 1.2s;
 }
@@ -114,7 +114,7 @@ p{
     background-size: cover;
     box-shadow: 2px 7px 20px black;
     position: relative;
-    left:-23%;
+    left:-20%;
     bottom: 4vw;
     transition: transform 1s;
 }
