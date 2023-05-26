@@ -1,4 +1,17 @@
-Egypt.getElementById("sights").onclick = myFunction;
+document.getElementById("sights").onclick = myFunction;
+
 function myFunction() {
-    Egypt.getElementById("sights").open("sights.html")
-};
+  window.open("sights.html","_self");
+}
+
+document.getElementById("tradition").onclick = myFunction;
+
+function myFunction() {
+  window.open("tradition.html","_self");
+}
+
+document.getElementById("culture").onclick = myFunction;
+
+function myFunction() {
+  window.open("culture.html","_self");
+}
