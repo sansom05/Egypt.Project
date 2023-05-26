@@ -61,8 +61,8 @@ p{
 }
 
 .box{
-    width: 230px;
-    height: 260px;
+    width: 200px;
+    height: 230px;
     display: inline-block;
     border-radius: 10px;
     padding: 15px 25px;
@@ -73,14 +73,14 @@ p{
     background-size: cover;
     box-shadow: 2px 7px 20px black;
     position: relative;
-    left:380px;
-    top: 250px;
-    transition: transform 1.5s;
+    left:300px;
+    top: 220px;
+    transition: transform 1.2s;
 }
 
 .box2{
-    width: 230px;
-    height: 260px;
+    width: 200px;
+    height: 230px;
     display: inline-block;
     border-radius: 10px;
     padding: 15px 25px;
@@ -91,14 +91,14 @@ p{
     background-size: cover;
     box-shadow: 2px 7px 20px black;
     position: relative;
-    left:420px;
-    top:250px;
-    transition: transform 1.5s;
+    left:340px;
+    top:220px;
+    transition: transform 1.2s;
 }
 
 .box3{
-    width: 230px;
-    height: 260px;
+    width: 200px;
+    height: 230px;
     display: inline-block;
     border-radius: 10px;
     padding: 15px 25px;
@@ -109,9 +109,9 @@ p{
     background-size: cover;
     box-shadow: 2px 7px 20px black;
     position: relative;
-    left:10px;
+    left:-40px;
     bottom: 60px;
-    transition: transform 1.5s;
+    transition: transform 1s;
 }
 
 h4{
@@ -121,5 +121,5 @@ h4{
 }
 
 .box:hover, .box2:hover, .box3:hover{
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
