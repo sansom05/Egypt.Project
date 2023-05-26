@@ -75,21 +75,21 @@ h1{
     background-size: cover;
     box-shadow: 2px 7px 20px black;
     position: relative;
-    left: 730px;
-    top: 480px;
+    left: 57.5vw;
+    top: 40vw;
     z-index: 1;
 }
 
 #box2{
     background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(../img/Sphynx.jpg);
-    left: 198px;
-    top: 1000px;
+    left: 15.5vw;
+    top: 77vw;
 }
 
 #box3{
     background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(../img/Nile.jpg);
-    left: 724px;
-    top: 1130px;
+    left: 57.5vw;
+    top: 90svw;
 }
 
 .container2{
