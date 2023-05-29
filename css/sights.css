@@ -125,3 +125,14 @@ background-color: rgb(212, 160, 93);
 .titleN{
     padding-left: 21%;
 }
+
+.carousel{
+    width: 100px;
+    height: 50px;
+    padding-left: 20%;
+    padding-top: 1%;
+}
+
+.show{
+    display: initial;
+}
