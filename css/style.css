@@ -80,7 +80,7 @@ p{
     position: relative;
     left:30%;
     top: 17vw;
-    transition: transform 1.2s;
+    transition: transform 0.6s;
 }
 
 .box2{
@@ -98,7 +98,7 @@ p{
     position: relative;
     left:31%;
     top:17vw;
-    transition: transform 1.2s;
+    transition: transform 0.6s;
 }
 
 .box3{
@@ -116,7 +116,7 @@ p{
     position: relative;
     left:-20%;
     bottom: 4vw;
-    transition: transform 1s;
+    transition: transform 0.6s;
 }
 
 h4{
