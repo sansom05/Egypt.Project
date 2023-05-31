@@ -15,7 +15,6 @@
 }
 
 .topnav{
-    top: 0;
     right: 0;
     position: fixed;
     z-index: 99;
@@ -42,7 +41,6 @@
 }
 
 .hdrtitle{
-    display: flex;
     padding-left:14%;
     padding-top: 3%;
 }
